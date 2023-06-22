@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-archite",
+  "private_key_id": "7e6def68f32e84f5f277ffd9b27fc17dc20c08cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwDqN76PZk38V6\nzbC+lFMsJ7y7+zdGfKo9Vj4t+NqpkvJAURhu3OmPW8IoIp+9bic/Hb+h7fp0ELH/\n3uOtIZiNXfDp6BlduwesGt6Nc4lQ9DH1A3Wjp0FCxshntFFqRqXu/TdzB+UNsOJq\n/eb7aa0wwZzQVUaLNZsNjHw6hE6bio6n/cj57qRZ/Sr8r4BNLvgTzvGlhwVNNcx6\ngbKxoBEex0S4klgCjTUqtT4paSQEVbTSga34lCgfIIvLahQdNc6xKmEgw02nXBbn\nAPbxKW6Ht0ryfndJ3aMsXW54DzENytQqy3zS9uxUu5hTbRlpwcc+InbfKWNboKnN\njKdYqCmFAgMBAAECggEAAcnJm/rsHcQuw6Y5MwZbUz8oFJoNoAKo0VdXPwJLE56G\n0A5tesV1qIYcZ79KSL3zWhnEQNx48cWFo/1bP1PwXRHk3jYETpvADTMiADp53OpO\nDkNgZi7PDo2UVYaoWQr/U85wn2jSHnHQgEO0nT3Ki4yROjB+N0XDyGnH4pRGHsr6\nLbOj2/mPNGx1akq2e4NjVfc2JadFNDm37L+I9wZ0daJKql0LBSyb/U23Ah0sqdTz\nLHkFc+4orKGyvkIL4VZzcMjCZYIEd2heEW5yJaGUg2cmq0GgL2830IfOVe85pZ+/\n9uhfcMoxPXmGnqsrMLxOknY0vYs7GwtD0L9hb9DeYQKBgQDYZVjgbZpFxXljoGro\nZCUvN/0jkYyvgw6YfJ/7xPd6yrgzbex5Wtb/Tebo6fmVudl0bO30hiNXzIhAmFW7\nQS5uvWOnBq8Uo9XAGrTKx0debVOkg6xrWXrYlvuzK20fBoAT3WyUOSVUNGh0JTsL\nolZSP9QkIeOaKBpqPGgOSJp9LQKBgQDQR1QwGW+7yE5Bn6XZlgT4qqO9l9r7m6Yv\nEbPumdAj8lgFoWsCl/VYotk81DJdk1Gwh9uKa0h1AIloUOaoUbXNNbfqU9zagDEJ\nUa0erHzdFsz/HQx17k7TZbZDBs8ZQ+cMMhBy/Glcxek32OaaUIW/DJ7g32H+rg/a\nSk4wgqsEuQKBgDngIT0lEzXF8wlqRi2RW0CdwN5adz4Z1zWBX2h+7ZGx1kIrDCwI\n16fAthllOpOI+VfiKmJT3fAFjAt6srM6Y6jKjnSFnR3wE6MlgWUal0PyCYTekqbD\nb8+t0fPBkZXSrz6g4gFip1E2Exm9O2WJLX0iBSMEzVLVlvsC3PG1CVyhAoGBALJK\nbQnjrF8eH8dTR6DUKBtJz3ML3DwISKEAUXvNlXxABxOC01zcAf1HIhlNOHQcGRC5\nq7h5EASAWh+/KUQq9irdcjuYYHV2yQNGNKEOXLDRxNgZ4MHPJxEVf4ku+feRxeYN\nsUENS5BMJtFUzkqI5YTe495xuqxOCmn9s6MZKBaZAoGBALvT0ert0z12SsUerE64\n+NRiZXVmOE2eEKAhUWyNoEgtaCYdkFbCdSwllI5n3q/GZfifSFkAMipyvGMVGqX1\njRM/Vzhu1GT7wwgzsvMkHgLezcWqnLqsj8dNcTKT9eAk5BzTfezp2d+E/PFjYG9d\nqDZLHN2w/uhylN9JfFimiPdD\n-----END PRIVATE KEY-----\n",
+  "client_email": "vishnu-storage-uploader@gcp-archite.iam.gserviceaccount.com",
+  "client_id": "109543203189447314139",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vishnu-storage-uploader%40gcp-archite.iam.gserviceaccount.com"
+}
